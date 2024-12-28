@@ -100,14 +100,28 @@ nav ul li a:hover {
     border-radius: 25px;
 
 }
+.leftsection .button{
+    padding: 20px 0;
+}
+.leftsection .btn{
+   
+        background: #3636fd;
+        color: white;
+        border: 2px solid #ece1e1;
+        border-radius: 3px;
+        padding: 6px;
+        cursor: pointer;
+        
+}
 
 .purpal {
 
     color: #F8AFA6;
 }
-.text-gray{
 
-    color:rgb(208, 232, 121);
+.text-gray {
+
+    color: rgb(208, 232, 121);
 }
 
 
@@ -120,65 +134,69 @@ nav ul li a:hover {
 
     max-width: 80vw;
     margin: auto;
-    height:80vh;
+    height: 80vh;
 }
-.secondsection h1{
+
+.secondsection h1 {
 
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.9rem;
 }
-.secondsection .box{
+
+.secondsection .box {
 
     background: white;
     height: 2px;
-    width:60vw;
+    width: 60vw;
     margin: 56px 0;
     display: flex;
 }
-.secondsection .vertical{
+
+.secondsection .vertical {
 
     height: 70px;
-  
+
     width: 1px;
     background-color: white;
     margin: 0 120px;
-   
-    
 
-    
-    
+
+
+
+
 }
-.image-top{
 
-    width:23px;
+.image-top {
+
+    width: 23px;
     position: relative;
     top: -26px;
     left: -11px;
 }
 
 
-.vertical-tital{
+.vertical-tital {
 
     position: relative;
-    margin-top:68px;
+    margin-top: 68px;
     font-size: 14px;
 
 
-   
+
 
 
 }
 
-.vertical-desc{
+.vertical-desc {
 
-    position:relative;
-    top:23px;
-    color:rgb(230, 230, 33);
-    width:150px;
-    font-size:9px;
+    position: relative;
+    top: 23px;
+    color: rgb(230, 230, 33);
+    width: 150px;
+    font-size: 9px;
 
-  
-  
+
+
 
 
 }
@@ -191,14 +209,36 @@ main hr {
     height: 1.2px;
     margin: 40px 84px;
 }
-footer{
-    background-color:#E1FFBB;
-    height: 400px;
-    
+
+footer {
+    background-color: #E1FFBB;
+    /* height: 400px; */
+
 }
 
-.footer{
+.flex {
 
     display: flex;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+    color:black;
+
+
+}
+
+
+footer ul{
+    list-style: none;
+    /* color:black; */
+}
+.footer > div{
+
+    width:250px;
+}
+
+ .footer-right{
+    color:black;
+    text-align: center;
+    padding:12px;
 
 }
