@@ -17,7 +17,11 @@ The **Dabeer's Portfolio** is a **responsive website** built to provide a seamle
 
 ![Screenshot 2024-12-29 023628](https://github.com/user-attachments/assets/f5dd1292-a8ca-4371-abb4-55bd735f82ff)
 
-https://github.com/user-attachments/assets/d01f7920-90d2-47e5-8fea-15a1361ce572
+
+
+https://github.com/user-attachments/assets/7b812ba9-a843-4cf6-b040-53281fd82cad
+
+
 
 
 
