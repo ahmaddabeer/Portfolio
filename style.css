@@ -107,7 +107,7 @@ nav ul li a:hover {
 }
 .text-gray{
 
-    color:gray;
+    color:rgb(208, 232, 121);
 }
 
 
@@ -131,22 +131,56 @@ nav ul li a:hover {
 
     background: white;
     height: 2px;
-    width: 80vh;
+    width:60vw;
     margin: 56px 0;
     display: flex;
 }
 .secondsection .vertical{
 
-    height: 93px;
+    height: 70px;
   
     width: 1px;
     background-color: white;
-    margin: 0 100px;
+    margin: 0 120px;
    
     
 
     
     
+}
+.image-top{
+
+    width:23px;
+    position: relative;
+    top: -26px;
+    left: -11px;
+}
+
+
+.vertical-tital{
+
+    position: relative;
+    margin-top:68px;
+    font-size: 14px;
+
+
+   
+
+
+}
+
+.vertical-desc{
+
+    position:relative;
+    top:23px;
+    color:rgb(230, 230, 33);
+    width:150px;
+    font-size:9px;
+
+  
+  
+
+
 }
 
 
@@ -156,4 +190,15 @@ main hr {
     background-color: #9c97f1;
     height: 1.2px;
     margin: 40px 84px;
+}
+footer{
+    background-color:#E1FFBB;
+    height: 400px;
+    
+}
+
+.footer{
+
+    display: flex;
+
 }
